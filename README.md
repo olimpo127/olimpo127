@@ -1,9 +1,9 @@
 ### Hi there, I'm Felipe Ojeda - [olimpo127][github] 👋 
 
 ## I'm a Father, Full Stack Developer, and Industrial Civil Engineering student
-- 🌱 I’m currently practicing with Front and Back End procets to keep geting better
+- 🌱 I’m currently practicing with Front and Back End projects to keep geting better
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Be part of a great Developers Team to keep growing in this new world
+- 🥅 2023 Goals: Become part of a great Developers Team to keep growing in this new world
 - ⚡ Fun fact: I love playing video games and soccer (though i am really bad at it)
 
 ### Connect with me:
@@ -23,7 +23,6 @@
 <img align="left" alt="SQL Alchemy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="FLask" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 
 
