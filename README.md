@@ -31,9 +31,9 @@
 
 
 ## GitHub Stats:
-<img align="left" alt="FragmentosTemporales GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FragmentosTemporales&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="olimpo127 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=olimpo127&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales)](https://github.com/FragmentosTemporales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olimpo127)](https://github.com/olimpo127/github-readme-stats)
 
 
 
