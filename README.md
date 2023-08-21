@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe Ojeda - [olimpo127][github] 👋 
 
 ## I'm a Father, and Full Stack Developer
-- 🌱 I’m currently practicing with Front and Back End projects to keep geting better
+- 🌱 I’m currently practicing with Front and Back End projects to keep getting better
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become part of a great Developers Team to keep growing in this new world
 - ⚡ Fun fact: I love playing video games and soccer (though i am really bad at it)
