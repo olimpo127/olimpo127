@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer
 - 🌱 I’m currently working on projects using React and Firebase to keep getting better. 
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love playing video games and soccer (though i am really bad at it)
+- ⚡ Fun fact: I love playing video games and soccer 
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
